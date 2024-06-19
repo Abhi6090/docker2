@@ -1,2 +1,3 @@
 docker push
 docker pull
+docker images 
