@@ -5,3 +5,5 @@ docker ps
 docker deamon
 docker builder
 docker container
+docker login
+docker logout
