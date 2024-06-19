@@ -3,3 +3,4 @@ docker pull
 docker images 
 docker ps 
 docker deamon
+docker builder
