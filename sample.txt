@@ -2,3 +2,4 @@ docker push
 docker pull
 docker images 
 docker ps 
+docker deamon
